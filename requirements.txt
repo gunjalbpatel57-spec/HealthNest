@@ -1,0 +1,7 @@
+flask
+flask-cors
+openai
+Pillow
+torch
+transformers
+pandas 
